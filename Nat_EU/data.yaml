@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 22
+names: ['Allemagne', 'Autre', 'Autriche', 'Belgique', 'Croatie', 'EU', 'Espagne', 'Finlande', 'France', 'Grece', 'Hongrie', 'Irlande', 'Italie', 'Lettonie', 'Pays-Bas', 'Pologne', 'Portugal', 'Romanie', 'Slovaquie', 'Slovenie', 'Suede', 'Tcheque']
+
+roboflow:
+  workspace: project-2jbkl
+  project: y-j6lrj
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-2jbkl/y-j6lrj/dataset/5
